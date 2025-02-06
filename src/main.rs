@@ -25,5 +25,5 @@ fn main() {
     if meth==4{
         res=num/num2;
     }
-    println!("The result is: {res}");
+    println!("The result is: {res}. Tip: Calculate again by running it again.");
 }
