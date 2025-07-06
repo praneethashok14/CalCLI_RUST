@@ -2,7 +2,7 @@
 
 .PHONY: build run test fmt clippy clean release install uninstall
 
-BINARY_NAME = calcli
+BINARY_NAME = CalCLI_RUST
 
 ifeq ($(shell id -u),0)
 INSTALL_DIR = /usr/local/bin
