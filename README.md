@@ -1,5 +1,5 @@
 # A simple calculator written with Rust.
-How to install and run: Download the .zip file by going to Code > Download ZIP and extract the zip or use
+How to install and run: Download the .zip file by going to Code > Download ZIP and extract the zip or run
 
 ```git clone https://github.com/praneethashok14/CalCLI_RUST```
 
