@@ -17,7 +17,7 @@ Then
 
 ```make install```
 
-for local installation
+for local installation and
 
 ```sudo make install```
 
