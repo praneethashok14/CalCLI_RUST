@@ -24,10 +24,9 @@ for local installation and
 for system wide installation.
 Then add the installation folder to your $PATH with
 
-```export PATH="$HOME/.local/bin:$PATH"```
+```echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.zshrc``` or ~/.bashrc if you are on bash
 
 for user installation and
 
-```export PATH="usr/local/bin:$PATH"```
-
+```echo 'export PATH="/usr/local/bin:$PATH"' >> ~/.zshrc``` or ~/bashrc if you are on bash
 for system installation.
