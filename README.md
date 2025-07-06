@@ -15,4 +15,10 @@ If you already have rust and make then you can run
 
 Then 
 
+```make install```
+
+for local installation
+
 ```sudo make install```
+
+for system wide installation
