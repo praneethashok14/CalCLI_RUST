@@ -24,4 +24,4 @@ release:
 	cargo build --release
 
 install: release
-	install -Dm755 target/release/calcli /usr/bin/calcli
+	install -Dm755 target/release/calcli /usr/local/bin/calcli
