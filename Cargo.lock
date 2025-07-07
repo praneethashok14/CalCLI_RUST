@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "CalCLI_RUST"
+name = "calcli"
 version = "0.1.0"
