@@ -30,3 +30,7 @@ for user installation and
 
 ```echo 'export PATH="/usr/local/bin:$PATH"' >> ~/.zshrc``` or ~/bashrc if you are on bash
 for system installation.
+Or if you're on Arch/Manjaro/EndeavourOS:
+```yay -S calcli```
+or
+```paru -S calcli```
